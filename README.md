@@ -1,1 +1,1 @@
-# coursera-capstone
+# coursera_capstone
